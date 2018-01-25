@@ -9,7 +9,7 @@ In the video link below shows that the phone was doing positioning and push the 
 ## Pictures of the setup
 ![alt text](https://github.com/Refreshdom/Energy_monitoring_based_on_indoor_position/blob/master/pictures/component.jpg)
 
-## Visual data shows at thingspeak
+## Visual data shows at ThinkSpeak.com
 ![alt text](https://github.com/Refreshdom/Energy_monitoring_based_on_indoor_position/blob/master/pictures/cloud.jpg)
 
 ### For more information please refer to Proposal.pdf
