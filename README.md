@@ -3,4 +3,4 @@ The system consist of power measuring device and smart phone to do indoor locati
 
 ## Refer to Proposal.pdf for more information.
 
-[!alt text](https://github.com/Refreshdom/Energy_monitoring_based_on_indoor_position/blob/master/Overall_system.jpg)
+![alt text](https://github.com/Refreshdom/Energy_monitoring_based_on_indoor_position/blob/master/Overall_system.jpg)
