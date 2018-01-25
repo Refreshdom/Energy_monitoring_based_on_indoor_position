@@ -5,8 +5,16 @@ The system consist of power measuring device and smart phone to do indoor locati
 ### Indoor Positioning
 In the video link below shows that the phone was doing positioning and push the location to the cloud while the laptop shows the freeboard.io capturing data from the cloud.
 
+#### Link:
 https://www.dropbox.com/s/ydf9a0g5ztsmcs3/PositioningDemoVideo.mp4?dl=0
 
-## For more information please refer to Proposal.pdf
+## Pictures of the setup
+![alt text](https://github.com/Refreshdom/Energy_monitoring_based_on_indoor_position/blob/master/pictures/component.jpg)
 
-![alt text](https://github.com/Refreshdom/Energy_monitoring_based_on_indoor_position/blob/master/Overall_system.jpg)
+## Visual data shows at thingspeak
+![alt text](https://github.com/Refreshdom/Energy_monitoring_based_on_indoor_position/blob/master/pictures/cloud.jpg)
+
+### For more information please refer to Proposal.pdf
+
+![alt text](https://github.com/Refreshdom/Energy_monitoring_based_on_indoor_position/blob/master/pictures/Overall_system.jpg)
+
