@@ -4,6 +4,7 @@ The system consist of power measuring device and smart phone to do indoor locati
 ## Demo Video
 ### Indoor Positioning
 In the video shows that the phone was doing positioning and push the location to the cloud while the laptop shows the freeboard.io capturing data from the cloud.
+
 https://www.dropbox.com/s/ydf9a0g5ztsmcs3/PositioningDemoVideo.mp4?dl=0
 
 ## Refer to Proposal.pdf for more information.
