@@ -4,14 +4,14 @@ The system consist of power measuring device and smart phone to do indoor locati
 ## Positioning demo video
 In the video link below shows that the phone was doing positioning and push the location to the cloud while the laptop shows the freeboard.io capturing data from the cloud.
 
-#### Link: https://www.dropbox.com/s/ydf9a0g5ztsmcs3/PositioningDemoVideo.mp4?dl=0
+#### Video Link: https://www.dropbox.com/s/ydf9a0g5ztsmcs3/PositioningDemoVideo.mp4?dl=0
 
 ## Pictures of the setup
 ![alt text](https://github.com/Refreshdom/Energy_monitoring_based_on_indoor_position/blob/master/pictures/component.jpg)
 
-## Visual data shows at ThinkSpeak.com
+## Power usage data that upload to ThinkSpeak.com
 ![alt text](https://github.com/Refreshdom/Energy_monitoring_based_on_indoor_position/blob/master/pictures/cloud.jpg)
 
-### For more information please refer to Proposal.pdf
+### Overall design of the system
 ![alt text](https://github.com/Refreshdom/Energy_monitoring_based_on_indoor_position/blob/master/pictures/Overall_system.jpg)
 
