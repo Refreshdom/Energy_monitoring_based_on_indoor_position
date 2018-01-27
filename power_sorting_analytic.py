@@ -97,7 +97,7 @@ while run:
 
         p2+=totalpower
         if((totalpower/1000)>threshold):
-            print "ggspam"
+            print "ifttt alert email has been sent"
             params = "/trigger/detected/with/key/bmnSW2DacKuV9ej6oI6TX3"
             headers = {"Content-typ": "application/x-www-form-urlencoded", "Accept": "text/plain"}
             conn = httplib.HTTPConnection("maker.ifttt.com:80")
