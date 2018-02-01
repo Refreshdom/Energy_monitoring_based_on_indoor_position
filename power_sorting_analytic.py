@@ -116,7 +116,7 @@ while run:
                 ratio[recordCount]=(p2-p1)/300
                 #dividen 12 due to 12x5min=1hour counter(default:6[10x6=1h])
                 def sentIot(x):
-                    graph=str(Rrec[x])
+                    graph=str(ratio[x])
                     params = "/update?api_key=BVA7P1HO2G97Q6TG"+"&field1="+graph
                     headers = {"Content-typ": "application/x-www-form-urlencoded", "Accept": "text/plain"}
                     conn = httplib.HTTPConnection("iotfoe.ddns.net:3333")
